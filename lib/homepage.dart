@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/foundation.dart';
-//import 'package:jan_5_crypto/main.dart';
 
 class HomePage extends StatefulWidget {
   final List currencies;
