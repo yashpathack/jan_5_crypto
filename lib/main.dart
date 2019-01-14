@@ -2,7 +2,7 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:jan_5_crypto/homepage.dart';
 import 'package:http/http.dart' as http;
-import 'dart:convert';
+import 'dart:convert'; //For Json.decode
 import 'dart:async';
 
 void main() async {
